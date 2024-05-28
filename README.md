@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [You are already here](https://github.com/Techkie-Creations/blog-preview-card)
-- Live Site URL: [Testimonials Grid Section Frontend Mentor](https://techkie-creations.github.io/blog-preview-card)
+- Live Site URL: [Blog Preview Card Frontend Mentor](https://techkie-creations.github.io/blog-preview-card)
 
 ## My process
 
